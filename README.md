@@ -1,4 +1,4 @@
-# Python - Data Science
+# Python - NumPy
 * A basic tutorial in python to get started with Data Science using NumPy library.
 * I have used a raw code-based approach to explain the basic concepts of Data Science using Python.
 * This code is open source and free to use.
