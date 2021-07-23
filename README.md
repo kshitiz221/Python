@@ -12,4 +12,4 @@
 
 
 ## NOTE
-* Knowledge of BASIC Python concepts is highly recommended.
+Knowledge of BASIC Python concepts is highly recommended.
